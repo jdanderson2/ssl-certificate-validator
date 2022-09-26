@@ -1,4 +1,4 @@
-# SslCertificateChecker
+# SSLCertificateChecker
 
 **TODO: Add description**
 
